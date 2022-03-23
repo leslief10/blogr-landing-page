@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Blogr landing page]()
+- Live Site URL: [Blogr landing page](https://leslief10.github.io/blogr-landing-page/)
 
 ## My process
 
